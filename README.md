@@ -1,28 +1,24 @@
-<h1 align="center"><b>Hi, I’m Bryden — CEO of B2r Brand</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Bryden</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
+
+<h3 align="center">CEO of B2r Brand | Full-Stack Web Developer | Graphic Designer | Automation & API Expert</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&center=true&lines=Web+Developer+%7C+Graphic+Designer;API+%2F+Automation+%2F+No-Code+Expert;Founder+of+B2r+Panel+%26+Dating+Platform;Let's+Build+Something+Cool!">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=b2r_panel&label=Profile%20views&color=0e75b6&style=flat" alt="b2r_panel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+cool+digital+things+with+B2r+Brand...;Web+Dev+|+Design+|+Automation+|+No-Code+Power;Let%E2%80%99s+create+something+awesome+today!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💼 About Me
+## 🚀 About Me
 
-- CEO of **B2r Brand**
-- Founder of **B2r Panel** & a new Dating Platform
-- Passionate Web Developer, Designer & Automation Builder
-- Expert in APIs, No-Code Tools & SMM Services
-- I love building fast, smart & modern systems
+- **CEO & Founder** of [B2r Brand](https://www.b2rbrand.com)
+- **Builder** of [B2r Panel](https://www.b2rbrand.com) & a powerful Dating Site Backend
+- Passionate about **automation**, **API integration**, and **no-code tools**
+- I believe in **design-driven development** & solving problems with style
+- Available for **collaborations**, **projects**, and **creative work**
 
 ---
 
-## ⚙️ Tech Stack
+## 🔧 Tech & Tools I Love
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -38,42 +34,51 @@
 
 ---
 
-## 📲 Connect with Me
+## ⭐ Featured Projects
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b2r_panel)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@b2r_panel)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@b2r_panel)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@b2r_panel)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/b2r_panel)  
-[![Email](https://img.shields.io/badge/Email-bryden@b2rbrand.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryden@b2rbrand.com)
-[![Email](https://img.shields.io/badge/Email-b2rbrandmanagement@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b2rbrandmanagement@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255689997037)
+- **B2r Panel** — A next-gen SMM automation panel  
+- **Dating Site Backend** — Full-featured custom-built backend platform  
+- **Graphic Design Portfolio** — Logos, banners, media kits, and more
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b2r_panel&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b2r_panel&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=radical&hide_border=false" width="45%"/>
 </p>
+
+---
+
+## 📬 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-bryden@b2rbrand.com-red?style=for-the-badge&logo=gmail)](mailto:bryden@b2rbrand.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255689997037)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/b2r_panel)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@b2r_panel)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@b2r_panel)  
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@b2r_panel)  
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/b2r_panel)
 
 ---
 
 ## ✨ Fun Facts
 
-- I’m building my own dating platform from scratch
-- I automate social media services through my SMM panel
-- I’m obsessed with turning ideas into working systems fast
-- I like helping others grow through tech & design
+- I smile even when debugging!
+- I automate my own life with tools like **Zapier**
+- I design **every day** — from UI to motion graphics
+- I build platforms from **scratch to scale**
 
 ---
 
-## ☕ Support My Work
-
-If you like what I do, consider sharing or recommending my work!
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" alt="typing gif"/>
+</p>
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views)
 
 *Let's build something amazing together!*
 
