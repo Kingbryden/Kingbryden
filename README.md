@@ -23,11 +23,10 @@
 - I'm always happy and passionate about what I do!
 
 ---
-## 🔥 Silent Preview
+## 🔥 ttkkkttkkkktttkk
 
 ![Preview](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-[▶️ Stream Full Series](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG&autoplay=1)
 
 ## 📱 Connect with Me
 
