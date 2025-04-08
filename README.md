@@ -67,7 +67,7 @@
 ## 🚀 Featured Projects
 
 - **[B2r Panel](https://www.b2rbrand.com/)** – SMM Automation & API
-- **Dating Platform** – Custom coded matchmaking backend
+- **[Dating Platform](www.b2rbrand.site/)** – Custom coded matchmaking backend
 
 ---
 
