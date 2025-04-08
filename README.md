@@ -6,7 +6,7 @@
 <!-- Animated Typing Text -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Tech+CEO+%7C+No-Code+Expert+%7C+API+Wizard;Automation+%7C+SMM+Panel+Dev+%7C+Dating+Platforms;Let's+Create+Something+Awesome+Today!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Tech+CEO+%7C+No-Code+Expert+%7C+API+Wizard;Automation+%7C+SMM+Panel+Dev+%7C+Dating+Platforms;Lets+Create+Something+Awesome+Today!" alt="Typing SVG" />
   </a>
 </p>
 
