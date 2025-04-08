@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kingbryden%20%7C%20CEO%20of%20B2r%20Brand&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bryden%20%7C%20CEO%20of%20B2r%20Brand&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- Animated Typing Text -->
