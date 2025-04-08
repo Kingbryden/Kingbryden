@@ -3,7 +3,7 @@
 Hey there! I'm Bryden, founder & CEO of **B2r Brand**. I live and breathe creativity, tech, and business automation.
 
 ### What I Do
-- Build platforms like **B2r Panel** and custom dating sites
+- Build platforms like **B2r Panel** [https://b2rbrand.com] and custom dating [https://b2rbrand.site] sites
 - Automate workflows using **APIs**, **No-Code tools**, and **custom scripts**
 - Design sleek graphics, logos, and web interfaces
 - Consult brands on digital growth and innovation
