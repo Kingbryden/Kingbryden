@@ -1,35 +1,44 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bryden%20%7C%20CEO%20of%20B2r%20Brand&fontSize=40&fontColor=ffffff" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20KingBryden's%20World!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- Animated Typing Text -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
+  Hi, I'm Bryden — CEO of B2r Brand
+</h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Tech+CEO+%7C+No-Code+Expert+%7C+API+Wizard;Automation+%7C+SMM+Panel+Dev+%7C+Dating+Platforms;Lets+Create+Something+Awesome+Today!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&center=true&lines=Web+Developer+%7C+Graphic+Designer;Automation+%7C+API+Dev+%7C+No-Code+Expert;Building+B2r+Panel+%26+Dating+Platform;Happy+to+Create+Something+Cool+Today!">
   </a>
 </p>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kingbryden/Kingbryden/main/assets/profile.png" width="150" style="border-radius: 50%" />
-</p>
+---
+
+## 💼 About Me
+
+- CEO at **B2r Brand**
+- Founder of **B2r Panel** & Dating Platform
+- Web Developer, Graphic Designer & Automation Expert
+- Love working with APIs, No-Code Tools, & Automation
+- I'm always happy and passionate about what I do!
 
 ---
 
-## 👑 About Me
+## 📱 Connect with Me
 
-- CEO of **B2r Brand**
-- Founder of [B2r Panel](https://www.b2rbrand.com) & [Dating Platform](https://www.b2rbrand.site)
-- Developer | Graphic Designer | Automation Architect
-- I love working with **APIs**, **No-Code Tools**, and **Digital Automation**
-- I'm passionate, innovative, and always excited to build new things!
+[![Email](https://img.shields.io/badge/Email-bryden@b2rbrand.com-red?style=for-the-badge&logo=gmail)](mailto:bryden@b2rbrand.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255689997037)
+[![Threads](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@b2r_panel)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@b2r_panel)
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@b2r_panel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b2r_panel)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/b2r_panel)
 
 ---
 
-## 💻 Skills & Tools
+## 🔧 Skills & Tools
 
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -43,67 +52,66 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📈 GitHub Stats & Trophies
 
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@b2r_panel)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@b2r_panel)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@b2r_panel)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b2r_panel)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/b2r_panel)
-
-[![Email](https://img.shields.io/badge/Email-bryden@b2rbrand.com-red?style=for-the-badge&logo=gmail)](mailto:bryden@b2rbrand.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255689997037)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have ideas, suggestions, or want to collaborate, feel free to fork and open a pull request.
-
-1. Fork this profile
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a pull request
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kingbryden&theme=radical&row=2&column=3"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
-## ⚖️ Code of Conduct
+## 🚀 Featured Projects
 
-Please be respectful and constructive when engaging with this community. Any harmful or toxic behavior will not be tolerated. Treat everyone with respect and professionalism.
+- **[B2r Panel](https://www.b2rbrand.com/)** – SMM Automation & API
+- **Dating Platform** – Custom coded matchmaking backend
 
 ---
 
-## 🔐 Security Policy
+## 🔒 Security Policy
 
-If you discover a vulnerability or security concern related to this profile or associated projects:
+### Supported Versions
+
+We only support the latest version of our repositories. Please ensure you're using the most recent version before reporting issues.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| Latest  | ✅ |
+| Older   | ❌ |
+
+### Reporting a Vulnerability
+
+If you discover a vulnerability, please report it responsibly:
 
 - Email: [bryden@b2rbrand.com](mailto:bryden@b2rbrand.com)
-- Backup: [b2rbrandmanagement@gmail.com](mailto:b2rbrandmanagement@gmail.com)
+- Backup Email: [b2rbrandmanagement@gmail.com](mailto:b2rbrandmanagement@gmail.com)
+- WhatsApp: [Contact Support](https://wa.me/255689997037)
 
-Do not disclose it publicly. We will respond and address it as fast as possible. Thanks for helping keep the community safe!
-
----
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" width="450"/>
-  <img src="https://streak-stats.demolab.com?user=Kingbryden&theme=radical" width="450"/>
-</p>
+I will respond ASAP. Please avoid public disclosure until it’s resolved.
 
 ---
 
-## ❤️ Support
+## 🧾 License
 
-If you love what I do and want to support me:
+**MIT License**
+Copyright (c) 2025 Bryden
 
-- Share my profile
-- Star my repos
-- Reach out to collaborate!
+Permission is hereby granted, free of charge, to any person obtaining a copy of this content and associated documentation files (the "Content"), to deal in the Content without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Content, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Content.
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CONTENT OR THE USE OR OTHER DEALINGS IN THE CONTENT.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kingbryden&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+## 👀 Visitor Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kingbryden&label=Profile%20views)
+
+---
+
+> **Crafted with passion, precision, and a sprinkle of B2r magic!**
+
