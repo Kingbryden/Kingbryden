@@ -40,9 +40,11 @@
 
 ---
 
-## 🕒 Time in Tanzania (Dar es Salaam)
+## 🕒 Live Time in Tanzania(Dar es Salaam)
 
-![Current Time in Tanzania](https://timeapi.io/api/Badge/Clock?timeZone=Africa/Dar_es_Salaam)
+[![Live Clock](https://img.shields.io/badge/Click_To_View-Live_Clock-green?style=for-the-badge&logo=clockify)](https://yourusername.github.io/live-clock/)
+
+> This clock shows live time in GMT+03:00 (EAT)
 
 > Timezone: GMT+3 | EAT (East Africa Time)
 
