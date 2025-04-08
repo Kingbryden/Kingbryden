@@ -75,6 +75,10 @@
 
 ---
 
+## Live Projects
+
+[![Run on Replit](https://replit.com/badge/github/your-username/project-name)](https://replit.com/@your-username/project-name)
+
 ## 🔒 Security Policy
 
 ### Supported Versions
