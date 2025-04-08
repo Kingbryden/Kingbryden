@@ -1,6 +1,6 @@
 # Hi, I'm Bryden! 👋
 
-**CEO of B2R Brand**  
+**CEO of B2r Brand**  
 Web Developer | Graphic Designer  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
@@ -18,6 +18,7 @@ Web Developer | Graphic Designer
   - b2rbrandmanagement@gmail.com  
   - bryden@b2rbrand.com  
 - **Phone / WhatsApp:** +255689997037
+- Message B2r Brand on WhatsApp. https://wa.me/255689997037
 
 ---
 
