@@ -1,4 +1,4 @@
-# About Me — Bryden M.
+# About Me — Bryden
 
 Hey there! I'm Bryden, founder & CEO of **B2r Brand**. I live and breathe creativity, tech, and business automation.
 
