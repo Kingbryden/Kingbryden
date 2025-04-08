@@ -12,9 +12,9 @@
 
 - CEO at **B2r Brand**
 - Founder of **B2r Panel** & Dating Site Backend
-- Web Developer, Graphic Designer & Automation Expert
-- Love working with APIs, No-Code Tools, & Automation
-- I'm always happy and passionate about what I do!
+- Web Developer,Graphic Designer & Automation Expert
+-Love working with APIs,No-Code Tools, & Automation
+-I'm always happy and passionate about what I do!
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-bryden@b2rbrand.com-red?style=for-the-badge&logo=gmail)](mailto:bryden@b2rbrand.com)
+[![Email](https://img.shields.io/badge/Email-bryden@b2rbrand.com-red?style=for-the-badge&logo=gmail)](mailto:bryden@b2rbrand.com/b2rbrandmanagement@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255689997037)
 
 ---
