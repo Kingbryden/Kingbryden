@@ -40,6 +40,12 @@
 
 ---
 
+## 🕒 Time in Tanzania (Dar es Salaam)
+
+![Current Time in Tanzania](https://timeapi.io/api/Badge/Clock?timeZone=Africa/Dar_es_Salaam)
+
+> Timezone: GMT+3 | EAT (East Africa Time)
+
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
