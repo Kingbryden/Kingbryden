@@ -16,7 +16,7 @@
 
 ## 💼 About Me
 
-- CEO at **B2r Brand**
+- CEO at [B2r Brand](https://www.b2rbrand.com)
 - Founder of [B2r Panel](https://www.b2rbrand.com) & a powerful [Dating Site](https://www.b2rbrand.site)
 - Web Developer, Graphic Designer & Automation Expert
 - Love working with APIs, No-Code Tools, & Automation
