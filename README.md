@@ -126,6 +126,7 @@ THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 ![Profile Views](https://komarev.com/ghpvc/?username=Kingbryden&label=Profile%20views)
 
 ---
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=fadeIn&layout=default)
 
 > **Crafted with passion, precision, and a sprinkle of B2r magic!**
 
