@@ -48,6 +48,9 @@
 
 > Timezone: GMT+3 | EAT (East Africa Time)
 
+### Weather in Dar es Salaam
+![Weather](https://wttr.in/Dar%20es%20Salaam?format=%C+%t+%w)
+
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
