@@ -131,7 +131,7 @@ THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 ---
 
 ## ✨ Quote of the Day
-![Quote](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=gruvbox&font=Fira+Code&quote=keep-inspiring)
+![Quote](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight)
 
 > **Crafted with passion, precision, and a sprinkle of B2r magic!**
 
