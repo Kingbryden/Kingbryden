@@ -80,11 +80,11 @@
 
 ## Live Projects
 
-[![Run on Replit](https://replit.com/badge/github/your-username/project-name)](https://replit.com/@your-username/project-name)
+[![Run on Replit](https://replit.com/badge/github/Kingbryden/ALPHA-BOT)](https://replit.com/@your-username/project-name)
 
 I actively contribute to the following projects:
 - **[SocPanel](https://github.com/socpanel)**: SMM panel automation tools
-- **[Awesome Web Dev](https://github.com/Kingbryden/awesome-web-dev)**: Curated list of useful web development resources
+- **[Awesome Web Dev](https://github.com/awesome-web-dev)**: Curated list of useful web development resources
 
 Feel free to check out my contributions and pull requests on my [GitHub Activity](https://github.com/Kingbryden).
 
