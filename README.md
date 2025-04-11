@@ -27,10 +27,6 @@
 
 ![Preview](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-<p align="center">
-  <img src="https://www.b2rbrand.com/logo.png" width="150" alt="B2r Brand Logo"/>
-</p>
-
 ## 📱 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-bryden@b2rbrand.com-red?style=for-the-badge&logo=gmail)](mailto:bryden@b2rbrand.com)
