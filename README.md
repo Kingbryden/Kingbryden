@@ -84,8 +84,7 @@
 ### Live Projects
 
 ## WhatsApp Bot: ALPHA-BOT  
-[![Run on Replit]
-(https://replit.com/badge/github/Kingbryden/ALPHA-BOT)](https://replit.com/@your-username/project-name)
+[![Run on Replit](https://replit.com/badge/github/Kingbryden/ALPHA-BOT)](https://replit.com/@your-username/project-name)
 A full-featured WhatsApp bot with automation, AI, and admin dashboard.
 
 I actively contribute to the following projects:
