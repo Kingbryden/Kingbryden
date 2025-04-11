@@ -180,34 +180,13 @@ THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 
 > **Crafted with passion, precision, and a sprinkle of B2r magic!**
 
-# Tanzania Flag Animation Generator
-import matplotlib.pyplot as plt
-import matplotlib.patches as patches
-from matplotlib.animation import FuncAnimation
-
-fig, ax = plt.subplots(figsize=(6,4))
-colors = ['#1EB53A', '#000000', '#00A3DD', '#FCD116']  # Fixed color codes
-patches_list = []  # Renamed from 'patches' to avoid conflict
-
-def init():
-    ax.clear()
-    ax.set_xlim(0,6)  # Fixed: using set_xlim instead of duplicate set_ylim
-    ax.set_ylim(0,4)
-    ax.axis('off')
-    return []
-
-def animate(i):
-    ax.clear()
-    ax.axis('off')
-    
-    # Animated diagonal transition
-    for j in range(4):
-        triangle = patches.Polygon(
-            [[0,4], [6*(i/100), 4-(4*(i/100))], [0,4-(4*(i/100))]],  # Fixed coordinates
-            color=colors[j]
-        )
-        ax.add_patch(triangle)
-    return []
-
-ani = FuncAnimation(fig, animate, frames=100, init_func=init, blit=True)
-plt.show()
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY5a2R6Y2Z6ZzB6ZzB6ZzB6ZzB6ZzB6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kq0GCjHA8Rwc/giphy.gif" width="300" alt="Tanzania Flag Animation">
+  
+  ```python
+  # Symbolic representation
+  print("🇹🇿 Tanzania Flag Colors:")
+  print("Green: #1EB53A")
+  print("Black: #000000")
+  print("Blue: #00A3DD") 
+  print("Yellow: #FCD116")
