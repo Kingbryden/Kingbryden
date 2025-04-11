@@ -74,6 +74,14 @@
 
 ---
 
+## 🛠️ Tools & Skills
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Python, Express
+- Design: Photoshop, Illustrator, Figma
+- Automation: APIs, No-Code Tools, Bots
+- Deployment: Render, Replit, GitHub Pages
+
 ## 🏆 Achievements
 - Built SMM panel with 500+ active users
 - Launched 2 SaaS tools and a custom dating site
