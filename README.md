@@ -78,12 +78,15 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kingbryden&theme=radical&row=2&column=3"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical&card_width=300" height="160"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kingbryden&theme=radical&hide_border=true"/>
+</p>
 
 ## 🏆 Achievements
 - Built SMM panel with 500+ active users
