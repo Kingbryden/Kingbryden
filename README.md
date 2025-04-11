@@ -42,30 +42,6 @@
 
 <div align="center">
   
-import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
-import random
-
-fig, ax = plt.subplots(figsize=(8,4))
-weather_types = ['☀️ Sunny', '🌧️ Rainy', '⛅ Cloudy', '🌩️ Stormy']
-temps = [f"{random.randint(18,32)}°C" for _ in range(4)]
-
-def update(frame):
-    ax.clear()
-    ax.axis('off')
-    
-    # Animated weather transition
-    idx = frame % 4
-    ax.text(0.5, 0.7, weather_types[idx], 
-           fontsize=24, ha='center')
-    ax.text(0.5, 0.5, temps[idx], 
-           fontsize=36, ha='center')
-    ax.text(0.5, 0.3, "Dar es Salaam, Tanzania", 
-           fontsize=14, ha='center')
-    
-ani = FuncAnimation(fig, update, frames=20, interval=500)
-ani.save('weather.gif', writer='pillow', fps=2)
-print("✅ Weather GIF generated!")
 
 ## 🕒 Live Time in Tanzania(Dar es Salaam)
 
