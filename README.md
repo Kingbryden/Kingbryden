@@ -13,7 +13,6 @@
 </p>
 
 ---
-
 ## 💼 About Me
 
 - CEO at [B2r Brand](https://www.b2rbrand.com)
@@ -23,6 +22,11 @@
 - I'm always happy and passionate about what I do!
 
 ---
+
+![CEO](https://img.shields.io/badge/Role-CEO-black?style=flat-square&logo=apple)
+![Web Dev](https://img.shields.io/badge/Stack-FullStack-blue?style=flat-square&logo=javascript)
+![Automation](https://img.shields.io/badge/Focus-Automation-green?style=flat-square&logo=gear)
+
 ## 🔥 ttkkkttkkkktttkk
 
 ![Preview](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
@@ -52,10 +56,6 @@
 
 ### Weather in Dar es Salaam
 ![Weather](https://wttr.in/Dar%20es%20Salaam.png?1)
-
-![CEO](https://img.shields.io/badge/Role-CEO-black?style=flat-square&logo=apple)
-![Web Dev](https://img.shields.io/badge/Stack-FullStack-blue?style=flat-square&logo=javascript)
-![Automation](https://img.shields.io/badge/Focus-Automation-green?style=flat-square&logo=gear)
 
 ## Tech Stack
 
