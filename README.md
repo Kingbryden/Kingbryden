@@ -184,9 +184,3 @@ THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY5a2R6Y2Z6ZzB6ZzB6ZzB6ZzB6ZzB6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kq0GCjHA8Rwc/giphy.gif" width="300" alt="Tanzania Flag Animation">
   
   ```python
-  # Symbolic representation
-  print("🇹🇿 Tanzania Flag Colors:")
-  print("Green: #1EB53A")
-  print("Black: #000000")
-  print("Blue: #00A3DD") 
-  print("Yellow: #FCD116")
