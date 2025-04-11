@@ -60,35 +60,6 @@
 | **Blockchain Tanzania** | [Telegram](https://t.me/blockchaintz) |
 | **GDG Dar es Salaam** | [Meetup](https://gdg.community.dev/gdg-dar-es-salaam/) |
 
-## 💰 Live Crypto Prices (TZS)
-
-<table id="crypto-table">
-  <tr>
-    <th>Coin</th>
-    <th>Price (TZS)</th>
-    <th>24h Change</th>
-  </tr>
-</table>
-
-<script>
-// Fetch crypto prices in Tanzanian Shillings
-fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=tzs&ids=bitcoin,ethereum,binancecoin&price_change_percentage=24h')
-  .then(response => response.json())
-  .then(data => {
-    const table = document.getElementById('crypto-table');
-    data.forEach(coin => {
-      const row = table.insertRow();
-      row.insertCell(0).innerHTML = `<img src="${coin.image}" width="20"> ${coin.name}`;
-      row.insertCell(1).textContent = `TZS ${coin.current_price.toLocaleString()}`;
-      
-      const change = coin.price_change_percentage_24h;
-      const changeCell = row.insertCell(2);
-      changeCell.textContent = `${change.toFixed(2)}%`;
-      changeCell.style.color = change >= 0 ? 'green' : 'red';
-    });
-  });
-</script>
-
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
