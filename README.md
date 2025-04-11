@@ -27,6 +27,9 @@
 
 ![Preview](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
+<p align="center">
+  <img src="https://www.b2rbrand.com/logo.png" width="150" alt="B2r Brand Logo"/>
+</p>
 
 ## 📱 Connect with Me
 
