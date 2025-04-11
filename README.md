@@ -53,6 +53,10 @@
 ### Weather in Dar es Salaam
 ![Weather](https://wttr.in/Dar%20es%20Salaam.png?1)
 
+![CEO](https://img.shields.io/badge/Role-CEO-black?style=flat-square&logo=apple)
+![Web Dev](https://img.shields.io/badge/Stack-FullStack-blue?style=flat-square&logo=javascript)
+![Automation](https://img.shields.io/badge/Focus-Automation-green?style=flat-square&logo=gear)
+
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
