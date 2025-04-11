@@ -74,8 +74,6 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kingbryden&theme=radical)](https://git.io/streak-stats)
-
 ## 🏆 Achievements
 - Built SMM panel with 500+ active users
 - Launched 2 SaaS tools and a custom dating site
