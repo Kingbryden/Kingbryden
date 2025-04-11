@@ -27,6 +27,14 @@
 ![Web Dev](https://img.shields.io/badge/Stack-FullStack-blue?style=flat-square&logo=javascript)
 ![Automation](https://img.shields.io/badge/Focus-Automation-green?style=flat-square&logo=gear)
 
+## 📅 2025 Roadmap
+
+- [x] Launch Dating Platform MVP
+- [x] Build ALPHA-BOT
+- [ ] Release B2r Admin Dashboard
+- [ ] Grow to 10K monthly users
+- [ ] Launch mobile app (B2r Connect)
+
 ## 🔥 ttkkkttkkkktttkk
 
 ![Preview](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
