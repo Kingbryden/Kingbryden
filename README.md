@@ -51,6 +51,15 @@
 ### Weather in Dar es Salaam
 ![Weather](https://wttr.in/Dar%20es%20Salaam.png?1)
 
+## 🇹🇿 Tanzania Tech Communities
+
+| Platform | Link |
+|----------|------|
+| **DevsTz** (WhatsApp) | [Join](https://chat.whatsapp.com/JphqlfXZzB16QvJt5zZJ1Z) |
+| **Buni Hub** (Nairobi) | [Visit](https://bunihub.com) | 
+| **Blockchain Tanzania** | [Telegram](https://t.me/blockchaintz) |
+| **GDG Dar es Salaam** | [Meetup](https://gdg.community.dev/gdg-dar-es-salaam/) |
+
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
