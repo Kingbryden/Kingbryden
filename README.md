@@ -121,6 +121,9 @@ I will respond ASAP. Please avoid public disclosure until it’s resolved.
 
 ---
 
+> “Code it until you make it — then automate it.”  
+> — Bryden, CEO of B2r
+
 ## 🧾 License
 
 **MIT License**
