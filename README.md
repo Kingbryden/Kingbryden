@@ -40,6 +40,45 @@
 
 ---
 
+<div align="center">
+  
+```python
+# Tanzania Flag Animation Generator
+import matplotlib.pyplot as plt
+import matplotlib.patches as patches
+from matplotlib.animation import FuncAnimation
+
+fig, ax = plt.subplots(figsize=(6,4))
+colors = ['#1EB53A', '#000000', '#00A3DD', '#FCD116']
+patches = []
+
+def init():
+    ax.clear()
+    ax.set_xlim(0,6)
+    ax.set_ylim(0,4)
+    ax.axis('off')
+    return []
+
+def animate(i):
+    ax.clear()
+    ax.axis('off')
+    
+    # Animated diagonal transition
+    for j in range(4):
+        triangle = patches.Polygon(
+            [[0,4], [6*(i/100), 4-(4*(i/100)), [0,4-(4*(i/100))]],
+            color=colors[j]
+        )
+        ax.add_patch(triangle)
+    return []
+
+ani = FuncAnimation(fig, animate, frames=100, init_func=init, blit=True)
+plt.show()
+```
+  
+![Tanzania Flag](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY5a2R6Y2Z6ZzB6ZzB6ZzB6ZzB6ZzB6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kq0GCjHA8Rwc/giphy.gif)
+</div>
+
 ## 🕒 Live Time in Tanzania(Dar es Salaam)
 
 [![Live Clock](https://img.shields.io/badge/Click_To_View-Live_Clock-green?style=for-the-badge&logo=clockify)](https://yourusername.github.io/live-clock/)
