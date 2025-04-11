@@ -74,6 +74,11 @@
 
 ---
 
+## 🏆 Achievements
+- Built SMM panel with 500+ active users
+- Launched 2 SaaS tools and a custom dating site
+- Featured on [Platform X] / Reached 10K+ views on YouTube
+
 ## 🚀 Featured Projects
 
 - **[B2r Panel](https://www.b2rbrand.com/)** – SMM Automation & API
