@@ -102,15 +102,6 @@ I actively contribute to the following projects:
 
 Feel free to check out my contributions and pull requests on my [GitHub Activity](https://github.com/Kingbryden).
 
-## 🤝 Contributions
-
-Pull requests are welcome! For major changes, please open an issue first to discuss.  
-Let’s build something great together.
-
-- Fork this repo
-- Make your changes
-- Open a pull request
-
 ## 🔒 Security Policy
 
 ### Supported Versions
