@@ -73,19 +73,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 
-## 📈 GitHub Stats & Trophies
+📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kingbryden&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kingbryden&theme=radical&row=2&column=3"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingbryden&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" height="160"/>
 </p>
 
 ## 🏆 Achievements
