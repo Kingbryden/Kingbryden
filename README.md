@@ -16,7 +16,7 @@
 ## 💼 About Me
 
 - CEO at [B2r Brand](https://www.b2rbrand.com)
-- Founder of [B2r Panel](https://www.b2rbrand.com) & a powerful [Dating Site](https://www.b2rbrand.site)
+- Founder of [B2r Panel](https://www.b2rbrand.com/) & a powerful [Dating Site](https://www.b2rbrand.site/)
 - Web Developer, Graphic Designer & Automation Expert
 - Love working with APIs, No-Code Tools, & Automation
 - I'm always happy and passionate about what I do!
@@ -56,7 +56,7 @@
 
 ## 🕒 Live Time in Tanzania(Dar es Salaam)
 
-[![Live Clock](https://img.shields.io/badge/Click_To_View-Live_Clock-green?style=for-the-badge&logo=clockify)](https://yourusername.github.io/live-clock/)
+[![Live Clock](https://img.shields.io/badge/Click_To_View-Live_Clock-green?style=for-the-badge&logo=clockify)](https://kingbryden.github.io/live-clock/)
 
 > This clock shows live time in GMT+03:00 (EAT)
 
@@ -93,7 +93,7 @@
 ## 🚀 Featured Projects
 
 - **[B2r Panel](https://www.b2rbrand.com/)** – SMM Automation & API
-- **[Dating Platform](www.b2rbrand.site/)** – Custom coded matchmaking backend
+- **[Dating Platform](https://www.b2rbrand.site/)** – Custom coded matchmaking backend
 
 ---
 
