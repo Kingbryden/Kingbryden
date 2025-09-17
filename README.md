@@ -180,6 +180,6 @@ I'm a tech visionary dedicated to crafting impactful digital solutions. From SMM
 <div align="center">
   <img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="250" alt="Tanzania Pride"/>
   <br>
-  <small>Made with ❤️ in Tanzania | Last Updated: September 2025</small>
+  <small>Made with ❤️ by Bryden | Last Updated: September 2025</small>
 </div>
 ```
