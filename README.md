@@ -1,10 +1,10 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Bryden%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- Banner with Enhanced Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Bryden%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn&rotation=5" width="100%"/>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://github.com/Kingbryden.png" width="150" style="border-radius: 50%;" alt="GitHub Profile Picture"/>
-</p>
+<!-- Profile Picture with Hover Effect -->
+<div align="center">
+  <img src="https://github.com/Kingbryden.png" width="150" style="border-radius: 50%; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="GitHub Profile Picture"/>
+</div>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&center=true&lines=Web+Developer+%7C+Graphic+Designer;Automation+%7C+API+Dev+%7C+Code+Expert;Building+B2rPanel+%26+Dating+Platform;Entrepreneur+%7C+Innovator;Let's+Create+Something+Cool+Today!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=700&center=true&lines=Full-Stack+Web+Developer+%7C+UI%2FUX+Graphic+Designer;Automation+Specialist+%7C+API+Architect+%7C+Code+Maestro;Building+B2rPanel+%26+AI-Powered+Dating+Platform;Entrepreneur+%7C+Innovator+%7C+Tech+Visionary;Let's+Build+the+Future+Together!">
   </a>
 </p>
 
@@ -22,76 +22,85 @@
 ## 💼 About Me
 
 ```yaml
-- 👨‍💼 CEO at B2r Brand – Driving innovation in SMM and digital solutions
-- 🚀 Founder of B2r Panel & a cutting-edge Dating Platform
-- 💻 Full-Stack Web Developer | UI/UX Graphic Designer | Automation Specialist
-- 🔗 Passionate about APIs, No-Code Tools, AI Integration & Scalable Automations
-- 🌍 Based in Dar es Salaam, Tanzania – Always exploring global tech trends
-- 🎯 Fun Fact: I've automated over 10,000+ social media tasks to date!
+name: Bryden
+title: CEO & Founder @ B2r Brand
+location: Dar es Salaam, Tanzania 🌍
+interests: 
+  - 🚀 Innovation in SMM & Digital Automation
+  - 💻 Full-Stack Development & No-Code Solutions
+  - 🎨 Creative Graphic Design & UI/UX
+  - 🤖 AI Integration & Scalable APIs
+  - 🌟 Entrepreneurship & Global Tech Trends
+fun_fact: Automated 10,000+ social media tasks – and counting!
+quote: "Code is poetry; design is art; together, they build empires."
 ```
 
-I'm a dynamic entrepreneur and tech enthusiast dedicated to transforming ideas into impactful digital experiences. Let's collaborate on your next big project!
+As a passionate tech entrepreneur, I thrive on turning complex challenges into seamless digital experiences. From crafting custom automation tools to designing intuitive interfaces, my mission is to empower businesses with innovative solutions. Let's connect and co-create something extraordinary!
 
 ---
 
 ## 🔥 Highlight Reel
 
-![Innovation GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-> "Innovation distinguishes between a leader and a follower." – Steve Jobs
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Innovation Highlight"/>
+  <br>
+  <em>"Turning ideas into impact, one line of code at a time."</em>
+</div>
 
 ---
 
 ## 🧠 Skills & Expertise
 
-### Programming Languages & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50"/>
-</p>
+### Core Technologies
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" title="Firebase" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="60" height="60"/>
+</div>
 
-### Skill Proficiency
-<table align="center">
-  <tr>
-    <th>Skill</th>
-    <th>Level</th>
-  </tr>
-  <tr>
-    <td>Web Development</td>
-    <td><div style="background-color: #e0e0e0; border-radius: 10px; padding: 2px; width: 300px;">
-      <div style="background: linear-gradient(90deg, #4CAF50, #45a049); height: 20px; border-radius: 8px; width: 95%;"></div>
-    </div></td>
-  </tr>
-  <tr>
-    <td>API & Automation</td>
-    <td><div style="background-color: #e0e0e0; border-radius: 10px; padding: 2px; width: 300px;">
-      <div style="background: linear-gradient(90deg, #2196F3, #0b7dda); height: 20px; border-radius: 8px; width: 90%;"></div>
-    </div></td>
-  </tr>
-  <tr>
-    <td>Graphic Design</td>
-    <td><div style="background-color: #e0e0e0; border-radius: 10px; padding: 2px; width: 300px;">
-      <div style="background: linear-gradient(90deg, #FF9800, #e68900); height: 20px; border-radius: 8px; width: 85%;"></div>
-    </div></td>
-  </tr>
-  <tr>
-    <td>No-Code Tools</td>
-    <td><div style="background-color: #e0e0e0; border-radius: 10px; padding: 2px; width: 300px;">
-      <div style="background: linear-gradient(90deg, #9C27B0, #7b1fa2); height: 20px; border-radius: 8px; width: 80%;"></div>
-    </div></td>
-  </tr>
+### Proficiency Levels
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left">Skill Category</th>
+      <th align="left">Proficiency</th>
+      <th align="left">Tools/Experience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Web Development</strong></td>
+      <td>Expert (95%)</td>
+      <td>HTML/CSS/JS, React, Node.js – Built 50+ responsive sites</td>
+    </tr>
+    <tr>
+      <td><strong>API & Automation</strong></td>
+      <td>Advanced (90%)</td>
+      <td>REST/GraphQL, Python Scripts, Zapier – 10k+ automated tasks</td>
+    </tr>
+    <tr>
+      <td><strong>Graphic Design</strong></td>
+      <td>Proficient (85%)</td>
+      <td>Figma, Adobe Suite – Designed brand identities for 20+ clients</td>
+    </tr>
+    <tr>
+      <td><strong>No-Code & AI</strong></td>
+      <td>Intermediate (80%)</td>
+      <td>Bubble, Airtable, OpenAI APIs – Integrated AI in matchmaking</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
 ## 📱 Connect with Me
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="mailto:bryden@b2rbrand.com">
     <img src="https://img.shields.io/badge/Email-bryden@b2rbrand.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -126,12 +135,10 @@ I'm a dynamic entrepreneur and tech enthusiast dedicated to transforming ideas i
 
 [![Live Clock](https://img.shields.io/badge/Click_To_View-Live_Clock-green?style=for-the-badge&logo=clockify)](https://yourusername.github.io/live-clock/)
 
-> This clock shows live time in GMT+03:00 (EAT)
+> **Timezone:** GMT+3 | EAT (East Africa Time)
 
-> Timezone: GMT+3 | EAT (East Africa Time)
-
-### Weather in Dar es Salaam
-![Weather](https://wttr.in/Dar%20es%20Salaam.png?1)
+### Current Weather
+![Weather](https://wttr.in/Dar_es_Salaam.png?format=3)
 
 </div>
 
@@ -140,35 +147,37 @@ I'm a dynamic entrepreneur and tech enthusiast dedicated to transforming ideas i
 ## 🧰 Tech Stack
 
 <div align="center">
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
 </div>
 
 ---
 
 ## 📈 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kingbryden&theme=radical&row=2&column=3&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="38%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kingbryden&theme=radical&row=2&column=4&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingbryden&theme=radical&hide_border=true&stroke=000&background=0d1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&dateFormat=M j%5B, Y%5D" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&custom_title=Bryden's%20GitHub%20Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&langs_count=8" width="38%"/>
+</div>
 
-### Snake Contribution Grid
-<!-- Note: To enable, add GitHub Action for snake.svg as per examples -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingbryden&theme=radical&hide_border=true&background=0D1117&stroke=000&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&dateFormat=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+### Snake Animation (Contributions)
+<!-- To activate: Follow setup from https://github.com/Platane/snk -->
+![Snake animation](https://github.com/Kingbryden/Kingbryden/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -176,43 +185,44 @@ I'm a dynamic entrepreneur and tech enthusiast dedicated to transforming ideas i
 
 <div align="center">
 
-### [B2r Panel](https://www.b2rbrand.com/)
-<img src="https://img.shields.io/badge/B2r_Panel-SMM_Automation-blue?style=for-the-badge&logo=nodejs&logoColor=white" alt="B2r Panel"/>
-> Advanced SMM Automation & API Integration Platform | Powering Social Media Growth
-
-### [Dating Platform](https://www.b2rbrand.site/)
-<img src="https://img.shields.io/badge/Dating_Platform-Matchmaking_Backend-pink?style=for-the-badge&logo=react&logoColor=white" alt="Dating Platform"/>
-> Custom-coded Matchmaking System with AI-Driven Recommendations | Connecting Hearts
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **[B2r Panel](https://www.b2rbrand.com/)** | Advanced SMM Automation & API Platform for Social Media Growth | Node.js, React, Firebase | [![Demo](https://img.shields.io/badge/Demo-Live-blue?style=for-the-badge&logo=nodejs&logoColor=white)](https://www.b2rbrand.com/) |
+| **[Dating Platform](https://www.b2rbrand.site/)** | AI-Driven Matchmaking System with Custom Backend | Python, React, OpenAI APIs | [![Demo](https://img.shields.io/badge/Demo-Live-pink?style=for-the-badge&logo=react&logoColor=white)](https://www.b2rbrand.site/) |
 
 </div>
 
-#### Top Repositories
+#### Repo Pins
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingbryden&repo=ALPHA-BOT&theme=radical&hide_border=true" width="32%"/>
-  <!-- Add more pins for other repos -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingbryden&repo=ALPHA-BOT&theme=radical&hide_border=true&bg_color=0D1117" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingbryden&repo=socpanel&theme=radical&hide_border=true&bg_color=0D1117" width="32%"/>
+  <!-- Add more as needed -->
 </div>
 
 ---
 
-## 🎯 Live Projects & Contributions
+## 🎯 Live Projects & Open-Source Contributions
 
 [![Run on Replit](https://replit.com/badge/github/Kingbryden/ALPHA-BOT)](https://replit.com/@Kingbryden/ALPHA-BOT)
 
-I actively contribute to open-source:
-
-- **[SocPanel](https://github.com/socpanel)**: SMM Panel Automation Tools & Scripts
-- **[Awesome Web Dev](https://github.com/awesome-web-dev)**: Curated Resources for Modern Web Development
-
----
-
-## 👀 Visitor Counter
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kingbryden&label=Profile%20views&color=0e75b6&style=flat-square)
+**Active Contributions:**
+- **[SocPanel](https://github.com/socpanel)**: Open-source SMM Panel Tools & Automation Scripts ⭐
+- **[Awesome Web Dev](https://github.com/awesome-web-dev)**: Curated List of Web Development Resources & Tutorials
 
 ---
 
-> **Crafted with passion, precision, and a sprinkle of B2r magic! 🌟**
+## 👀 Visitor Counter & Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kingbryden&label=Profile%20Views&color=0e75b6&style=flat-square)
+
+![GitHub Followers](https://img.shields.io/github/followers/Kingbryden?label=Followers&style=social)
+
+---
+
+> **Crafted with passion, precision, and a dash of B2r innovation! 🚀🌟**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="300" alt="Tanzania Flag Animation">
+  <img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="300" alt="Tanzania Pride"/>
+  <br>
+  <small>Made with ❤️ in Tanzania | Updated: September 2025</small>
 </div>
